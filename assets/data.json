@@ -1,0 +1,45 @@
+{
+    "storyGroup": {
+        "id": 1,
+        "title": "...",
+        "index": 1,
+        "seen": true,
+        "iconUrl": "...",
+        "stories": [
+            {
+                "id": 1,
+                "title": "...",
+                "index": 1,
+                "seen": true,
+                "media": {
+                    "type": 1,
+                    "url": "...",
+                    "actionUrl": null
+                }
+            }
+        ]
+    },
+    "story": {
+        "id": 1,
+        "title": "...",
+        "index": 1,
+        "seen": true,
+        "media": {
+            "type": 1,
+            "url": "...",
+            "actionUrl": null
+        }
+    },
+    "storyComponent": {
+        "type": "emoji",
+        "emojiCodes": [
+            ":rage:",
+            ":cry:",
+            ":blush:",
+            ":heart_eyes:",
+            ":+1:"
+        ],
+        "selectedEmojiIndex": 2,
+        "customPayload": ""
+    }
+}
